@@ -1,9 +1,9 @@
-mmtech App
+# mmtech App
 Este é um crud simples para armazenar informações de contatos de equipe. Permite adicionar, editar e excluir contatos.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-Frontend:
+# Frontend:
 React
 Material-UI
 Framer Motion
@@ -11,33 +11,30 @@ Axios
 Zod
 React Input Mask
 
-Backend:
+# Backend:
 Node.js
 Express
 NeDB
 
 
-Como rodar o código
+# Como rodar o código
 Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
-
 Node.js e npm 
 Git 
 
 
-Instalação
+# Instalação
 
-Clone este repositório:
+# Clone este repositório:
 git clone https://github.com/seuusuario/team-contact-app.git
 
-Navegue até o diretório do projeto:
+# Navegue até o diretório do projeto:
 cd team-contact-app
 
-Instale as dependências do servidor e do cliente:
-Instalar dependências do servidor
+# Instale as dependências do servidor e do cliente:
 cd server
 npm install
-
-# Voltar ao diretório principal
+voltar ao diretório principal
 cd ..
 
 # Instalar dependências do cliente
@@ -45,13 +42,13 @@ cd client
 npm install
 
 
-Execução
-Inicie o servidor:
+# Execução
+# Inicie o servidor:
 cd server
 npm start
 O servidor estará disponível em http://localhost:5000.
 
-Inicie o cliente:
+# Inicie o cliente:
 cd client
 npm start
 O cliente será aberto em seu navegador padrão em http://localhost:3000.

@@ -1,35 +1,63 @@
-{"name":"asd","email":"asd@fds","phone":"asdad","_id":"8GqokMcGwmOWn0YI"}
-{"$$deleted":true,"_id":"8GqokMcGwmOWn0YI"}
-{"name":"asd","email":"asdas@sda","phone":"429999","_id":"dBFKtN5tfzsrG5wU"}
-{"name":"asd","email":"asdas@sda","phone":"429999213","_id":"dBFKtN5tfzsrG5wU"}
-{"name":"sdsad","email":"asd@dsad","phone":"asd","_id":"KHFrUFNvBnLeaonq"}
-{"$$deleted":true,"_id":"dBFKtN5tfzsrG5wU"}
-{"name":"sda","email":"asdas","phone":"2ewewqe","_id":"89bftiaT149PpAlg"}
-{"$$deleted":true,"_id":"89bftiaT149PpAlg"}
-{"$$deleted":true,"_id":"KHFrUFNvBnLeaonq"}
-{"name":"asd","email":"vitor@res.com.br","phone":"49","_id":"NU16YwmApOf9hUrA"}
-{"$$deleted":true,"_id":"NU16YwmApOf9hUrA"}
-{"name":"asdsa","email":"asdas@sdad.com","phone":"(22) 2 2222-2222","_id":"n3xvUUb4cnGpIg3c"}
-{"name":"asdsa","email":"asdas@sdad.com","phone":"(22) 2 2222-2222","_id":"n3xvUUb4cnGpIg3c"}
-{"name":"asdsa","email":"asdas@sdad.com","phone":"(00) 0 0000-0000","_id":"n3xvUUb4cnGpIg3c"}
-{"name":"asdsad","email":"contato@revoluxperformance.com.br","phone":"(41) 9 9138-9410","_id":"722omQ6ekekVRp9q"}
-{"$$deleted":true,"_id":"n3xvUUb4cnGpIg3c"}
-{"name":"asdsad","email":"contato@revoluxperformance.com.br","phone":"(22) 2 2222-2222","_id":"722omQ6ekekVRp9q"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(22) 2 2222-2222","_id":"722omQ6ekekVRp9q"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(22) 2 2222-2222","_id":"722omQ6ekekVRp9q"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd"}
-{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd"}
-{"name":"asd","email":"sd@asdas.com","phone":"(22) 2 2222-2222","_id":"gKBP3rk4N5xzXTvx"}
-{"name":"asd","email":"asd@res.com","phone":"(99) 9 9999-9999","message":"asdsadasd","_id":"hoaxGYHRzFGsjwKc"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd"}
-{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste"}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":null}
-{"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":1}
-{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":null}
-{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":1}
-{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2}
 {"name":"Vitor","email":"contato@revoluxperformance.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2}
-{"$$deleted":true,"_id":"gKBP3rk4N5xzXTvx"}
+{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2}
+{"name":"asd","email":"asd@res.com","phone":"(99) 9 9999-9999","message":"asdsadasd","_id":"hoaxGYHRzFGsjwKc"}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2}
+{"name":"sd","email":"as@asdsa.com","phone":"49999999999","message":"teste3","_id":"mzNHsE4BpfI1w85z"}
+{"$$deleted":true,"_id":"hoaxGYHRzFGsjwKc"}
+{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2}
+{"name":"sada","email":"asda@asd.com","phone":"999999999999999999999999","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2}
+{"name":"sada","email":"asda@asd.com","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":true}
+{"name":"sada","email":"asda@asd.com","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":true}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":false}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":true}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":false}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"(42) 9 8812-0475","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":true}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"42991031750","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":true}
+{"name":"sd","email":"as@asdsa.com","phone":"49999999999","message":"teste3","_id":"mzNHsE4BpfI1w85z","liked":true}
+{"name":"sada","email":"asda@asd.com","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"sada","email":"asda@asd.com","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":true}
+{"name":"Vitor Hugo","email":"vitor@hugo.com","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog"}
+{"name":"Vitor Hugo","email":"vitor@hugo.com","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":true}
+{"name":"Vitor Hugo","email":"vitor@hugo.com","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":true}
+{"name":"sada","email":"asda@asd.com","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"42991031750","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":false}
+{"name":"Vitor Hugo","email":"vitor@hugo.com","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":false}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":false}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":true}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"olá","_id":"4XdXZukAQ5eQCPog","liked":true}
+{"name":"sada","email":"asda@mmtech.com.br","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"Olá","_id":"4XdXZukAQ5eQCPog","liked":true}
+{"name":"hugo vitor","email":"hugo@mmtech.com.br","phone":"11111111111","message":"Olá mmtech","_id":"nf0tCF2XhO5j14f8"}
+{"name":"hugo vitor","email":"hugo@mmtech.com.br","phone":"11111111111","message":"Olá mmtech","_id":"nf0tCF2XhO5j14f8"}
+{"$$deleted":true,"_id":"nf0tCF2XhO5j14f8"}
+{"name":"Sadare","email":"asda@mmtech.com.br","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"Sadare","email":"asda@mmtech.com.br","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"asd asd ","email":"vitor@mmtech.com.br","phone":"99999999999","message":"dsadsa ","_id":"OmZBW7rcKx2in9IT"}
+{"name":"Ola","email":"vitor@mmtech.com.br","phone":"22222222222","message":"asdasda","_id":"nSQMcKCXcITIo7EE"}
+{"name":"teste","email":"asda@mmtech.com.br","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"vitor","email":"vitor@mmtech.com.br","phone":"99999999999","message":"Tudo bem?","_id":"dUpUGfILKY5E9X5j"}
+{"name":"Vitor","email":"asda@mmtech.com.br","phone":"11111111111","comment":"asdadasdasdasd","_id":"AAFc45xYhITLGKMN","message":"teste","likes":2,"liked":false}
+{"name":"asd asd ","email":"vitor@mmtech.com.br","phone":"99999999999","message":"OI","_id":"OmZBW7rcKx2in9IT"}
+{"$$deleted":true,"_id":"nSQMcKCXcITIo7EE"}
+{"$$deleted":true,"_id":"OmZBW7rcKx2in9IT"}
+{"name":"Vitor","email":"contato@resre.com.br","phone":"42991031750","_id":"722omQ6ekekVRp9q","comment":"asdasdasd","message":"sdasasd","likes":2,"liked":true}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"Olá","_id":"4XdXZukAQ5eQCPog","liked":false}
+{"name":"Vitor","email":"vitor@mmtech.com.br","phone":"11111111111","message":"asdsad","imageUrl":"https://github.com/mahenrique94.png?size=60&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2Fda06b6c8833495f47a6b6b8b6bf936c0.png%3Fr%3DPG%26size%3D60x60%26date%3D2024-05-22%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_m.png","_id":"TGA5Nl1DEI1XFhT4"}
+{"$$deleted":true,"_id":"AAFc45xYhITLGKMN"}
+{"$$deleted":true,"_id":"dUpUGfILKY5E9X5j"}
+{"name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42999999999","message":"Olá","_id":"4XdXZukAQ5eQCPog","liked":false,"imageUrl":"https://media.licdn.com/dms/image/C4E0BAQEArA7gfVkTww/company-logo_200_200/0/1637075119209/mmtechretail_logo?e=1724284800&v=beta&t=BDgk0VY_8aTBE_r9CtfoGOfIN6ih-SfOpRjx9K4jw3I"}
+{"_id":"4XdXZukAQ5eQCPog"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"name":"Asdsa","email":"vitor@mmtech.com.br","phone":"22222222222","message":"d asa","imageUrl":"asd sa","_id":"pLvEAVfdVUHz6cA4"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitorrr","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"name":"Vitor","email":"vitor@mmtech.com.br","phone":"11111111111","message":"asdsadasdda","imageUrl":"https://github.com/mahenrique94.png?size=60&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2Fda06b6c8833495f47a6b6b8b6bf936c0.png%3Fr%3DPG%26size%3D60x60%26date%3D2024-05-22%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_m.png","_id":"TGA5Nl1DEI1XFhT4"}
+{"name":"  asd a sdas","email":"teste@mmtech.com.br","phone":"99999999999","message":"ola","imageUrl":"asda","_id":"5PpXB119erQRgbUB"}
+{"_id":"4XdXZukAQ5eQCPog","name":"Vitor Hugo","email":"vitor@mmtech.com.br","phone":"42988120475","message":"Olá, bom dia Olá, bom dia Olá, bom dia Olá, bom dia Olá, bom dia","imageUrl":"https://media.licdn.com/dms/image/D4E03AQFJkH3wvRLuTQ/profile-displayphoto-shrink_200_200/0/1674676926160?e=1721865600&v=beta&t=N2AicMAIA8OGHLgKiIWzo1KuvAcGRBWvI9hHBrn9i3I"}
+{"name":"Vitor","email":"vitor@mmtech.com.br","phone":"11111111111","message":"asdsadasdda","imageUrl":"https://github.com/mahenrique94.png?size=60&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2Fda06b6c8833495f47a6b6b8b6bf936c0.png%3Fr%3DPG%26size%3D60x60%26date%3D2024-05-22%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_m.png","_id":"TGA5Nl1DEI1XFhT4","liked":true}
+{"$$deleted":true,"_id":"5PpXB119erQRgbUB"}
+{"$$deleted":true,"_id":"722omQ6ekekVRp9q"}

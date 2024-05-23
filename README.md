@@ -16,6 +16,8 @@ Com essa iniciativa, garantimos que ninguém seja deixado de fora e que todos pe
 - Editar contato: Clique no ícone de edição ao lado do contato que deseja editar, preencha os campos atualizados e clique em "Atualizar".
 - Excluir contato: Clique no ícone de lixeira ao lado do contato que deseja excluir e confirme a exclusão.
 - Curtir contato: Clique no ícone de coração para curtir ou descurtir uma publicação.
+
+  <br><br><br>
   
 - Validação de formulário: Os campos são validados de acordo com as regras especificadas.
 

@@ -9,6 +9,7 @@ Através desta rede social, os usuários podem compartilhar mensagens e imagens,
 
 Com essa iniciativa, garantimos que ninguém seja deixado de fora e que todos permaneçam conectados, promovendo um ambiente de trabalho colaborativo e harmonioso (:
 
+(Arquivos da pasta client estão na breanch master)
 
 ## Funcionalidades
 - Adicionar novas publicações: Preencha os campos do formulário e clique em "Adicionar".

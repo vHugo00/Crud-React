@@ -8,17 +8,14 @@ A rede social X da MMtech foi concebida com a ideia de promover a união e integ
 Através desta rede social, os usuários podem compartilhar mensagens e imagens, promovendo uma comunicação rica e dinâmica. Além disso, a funcionalidade de "curtir" permite expressar apreciação e reconhecimento pelo conteúdo compartilhado, fortalecendo os laços entre os membros das equipes.
 
 Com essa iniciativa, garantimos que ninguém seja deixado de fora e que todos permaneçam conectados, promovendo um ambiente de trabalho colaborativo e harmonioso (:
-
+ <br><br>
 (Arquivos da pasta client estão na breanch master)
-
+<br><br>
 ## Funcionalidades
 - Adicionar novas publicações: Preencha os campos do formulário e clique em "Adicionar".
 - Editar contato: Clique no ícone de edição ao lado do contato que deseja editar, preencha os campos atualizados e clique em "Atualizar".
 - Excluir contato: Clique no ícone de lixeira ao lado do contato que deseja excluir e confirme a exclusão.
-- Curtir contato: Clique no ícone de coração para curtir ou descurtir uma publicação.
-
-  <br><br><br>
-  
+- Curtir contato: Clique no ícone de coração para curtir ou descurtir uma publicação.  
 - Validação de formulário: Os campos são validados de acordo com as regras especificadas.
 
 <br><br>
